@@ -2,6 +2,7 @@
 
 ##### [24.06.27] Elemental Movie Poster🔥
 1. 썸네일 이미지를 클릭하면 메인 이미지와 배경이 바뀔 수 있도록 코드 로직을 작성합니다.
+(https://ttining-real.github.io/js-homework/poster/client/index.html)
 - [X]  이벤트 위임, 반복문을 사용한 클릭 이벤트
 - [X]  각 li 항목 클릭 시, 배경 색상과 메인 비주얼 이미지 변경
 - [X]  비주얼에 맞는 이름으로 nickName 변경
@@ -10,6 +11,7 @@
 ---
 ##### [24.06.23] 네이버 로그인 페이지 구현하기
 1. 로그인과 비밀번호를 정확히 입력했을 때 welcome 페이지로 넘어갈 수 있도록 코드 로직을 작성합니다.
+(https://ttining-real.github.io/js-homework/mission01/naver_login/index.html)
 - [ ]  재사용 가능한 함수를 분리하고 함수를 중심으로 설계하는 방법에 대해 학습합니다.
 ---
 ##### [24.06.07] 함수 만들기
